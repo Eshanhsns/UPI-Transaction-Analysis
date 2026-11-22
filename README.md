@@ -58,4 +58,4 @@ The interactive dashboard provides insights into:
 
 ### Dashboard Preview
 
-![UPI Transaction Analysis Dashboard](Screenshots/UPI_Dashboard.png)
+![UPI Dashboard](./Screenshots/UPI_Dashboard.png)
