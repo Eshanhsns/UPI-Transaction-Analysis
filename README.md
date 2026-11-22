@@ -45,3 +45,17 @@ The dataset contains monthly aggregate statistics. It does not provide individua
 - Excel/ – Excel analysis and dashboard
 - SQL/ – SQL queries
 - PowerBI/ – Power BI dashboard
+## Power BI Dashboard
+
+The interactive dashboard provides insights into:
+
+- Monthly UPI transaction volume.
+- Monthly transaction value.
+- Transaction volume growth.
+- Transaction value growth.
+- Average transaction value.
+- Key performance indicators.
+
+### Dashboard Preview
+
+![UPI Transaction Analysis Dashboard](Screenshots/UPI_Dashboard.png)
